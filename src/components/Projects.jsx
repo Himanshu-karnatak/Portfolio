@@ -33,7 +33,7 @@ const projects = [
       "A modern developer portfolio designed to present skills, projects and experience through interactive interfaces.",
     tech: ["React", "Framer Motion", "CSS"],
     image: null, 
-    live: "#",
+    live: "https://himanshu-karnatak-portfolio.vercel.app/",
     github: "#",
   },
 ];
