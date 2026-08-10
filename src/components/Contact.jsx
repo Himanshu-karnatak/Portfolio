@@ -129,7 +129,7 @@ function Contact() {
             {/* LINKEDIN */}
            
             <a
-              href="https://www.linkedin.com/in/himanshu-karnatak-24658a305"
+              href="https://www.linkedin.com/in/himanshu-karnatak"
               target="_blank"
               rel="noreferrer"
             >

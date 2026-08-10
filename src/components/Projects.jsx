@@ -1,7 +1,7 @@
 import { motion } from "framer-motion";
 import portfolioImg from "../assets/nainwal-arts.png"; 
 import tastybite from "../assets/tastybite.png"; 
-import tastybite from "../assets/portfolio.png"; 
+import portfolio from "../assets/portfolio.png"; 
 
 const projects = [
   {
