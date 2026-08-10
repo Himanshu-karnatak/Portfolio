@@ -34,7 +34,7 @@ const projects = [
     tech: ["React", "Framer Motion", "CSS"],
     image: null, 
     live: "https://himanshu-karnatak-portfolio.vercel.app/",
-    github: "#",
+    github: "https://github.com/Himanshu-karnatak/Portfolio",
   },
 ];
 
