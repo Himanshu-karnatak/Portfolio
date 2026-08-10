@@ -91,8 +91,8 @@ function Contact() {
           <div className="contact-details">
 
             {/* EMAIL */}
-            
-            <a href="himanshukarnatak847@gmail.com">
+
+            <a href="mailto:himanshukarnatak847@gmail.com">
               <span className="contact-icon">
                 @
               </span>
