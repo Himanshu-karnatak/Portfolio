@@ -12,7 +12,7 @@ const projects = [
     tech: ["HTML", "CSS", "JavaScript"],
     image: portfolioImg, 
     live: "https://nainwal-arts.vercel.app/",
-    github: "https://github.com/himanshukarnatak45-blip/Nainwal-arts/commits?author=himanshukarnatak45-blip",
+    github: "https://github.com/Himanshu-karnatak/Nainwal-arts",
   },
   {
     number: "02",
@@ -23,7 +23,7 @@ const projects = [
     tech: ["HTML", "CSS", "JavaScript"],
     image: tastybite, 
     live: "https://tasty-bite-blush.vercel.app/",
-    github: "https://github.com/himanshukarnatak45-blip/TastyBite",
+    github: "https://github.com/Himanshu-karnatak/TastyBite",
   },
   {
     number: "03",
