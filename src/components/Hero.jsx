@@ -126,7 +126,7 @@ function Hero() {
         <div className="hero-image-frame">
 
           <img
-            src={heroImg}
+            src={src/assets/hero.png}
             alt="Himanshu Karnatak"
           />
 
