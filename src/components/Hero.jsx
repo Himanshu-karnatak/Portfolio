@@ -1,6 +1,6 @@
 import { motion } from "framer-motion";
 import { TypeAnimation } from "react-type-animation";
-import heroImg from ".../assets/hero.png";
+import heroImg from "../assets/hero.png";
 
 function Hero() {
   const connectToContact = () => {
