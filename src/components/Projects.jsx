@@ -1,6 +1,7 @@
 import { motion } from "framer-motion";
 import portfolioImg from "../assets/nainwal-arts.png"; 
 import tastybite from "../assets/tastybite.png"; 
+import tastybite from "../assets/portfolio.png"; 
 
 const projects = [
   {
@@ -32,7 +33,7 @@ const projects = [
     description:
       "A modern developer portfolio designed to present skills, projects and experience through interactive interfaces.",
     tech: ["React", "Framer Motion", "CSS"],
-    image: null, 
+    image: portfolio, 
     live: "https://himanshu-karnatak-portfolio.vercel.app/",
     github: "https://github.com/Himanshu-karnatak/Portfolio",
   },

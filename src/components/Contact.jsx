@@ -91,7 +91,7 @@ function Contact() {
           <div className="contact-details">
 
             {/* EMAIL */}
-            {/* Added mailto: prefix */}
+            
             <a href="mailto:himanshukarnatak847@gmail.com">
               <span className="contact-icon">
                 @
@@ -107,9 +107,9 @@ function Contact() {
 
 
             {/* GITHUB */}
-            {/* Added your actual GitHub profile link */}
+          
             <a
-              href="https://github.com/himanshukarnatak45-blip"
+              href="https://github.com/Himanshu-karnatak"
               target="_blank"
               rel="noreferrer"
             >
@@ -127,7 +127,7 @@ function Contact() {
 
 
             {/* LINKEDIN */}
-            {/* Added https:// prefix to the URL */}
+           
             <a
               href="https://www.linkedin.com/in/himanshu-karnatak-24658a305"
               target="_blank"
